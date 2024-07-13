@@ -15,4 +15,6 @@ Sistem untuk mendeteksi getaran gempa bumi
 
 ![Sketsa Rangkaian](https://github.com/cyntiadebora/Proyek-Embedded-System/blob/main/Picture2.png?raw=true)
 
+![Sketsa Rangkaian](https://raw.githubusercontent.com/cyntiadebora/Proyek-Embedded-System/cfae2f9d310caf8f84340595970bf90ed8aac3cf/Picture3.png)
+
 
